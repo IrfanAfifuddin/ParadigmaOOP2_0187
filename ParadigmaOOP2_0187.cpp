@@ -25,6 +25,10 @@ public:
 };
 
 class lia : public seseorang
+{
+public:
+
+};
 
 int main()
 {
